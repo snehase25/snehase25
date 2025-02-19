@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehase25&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehase25&layout=compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=snehase25&color=blue)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=snehase25&theme=onedark)
