@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![CI](https://github.com/snehase/snehase25/actions/workflows/main.yml/badge.svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehase25&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehase25&layout=compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=snehase25&color=blue)
