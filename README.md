@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
 
-<!--
-**snehase25/snehase25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an experienced **Product & Project Manager | Software Developer** with over 12 years of experience delivering high-impact solutions in dynamic environments. I have a strong passion for technology, problem-solving, and creating great products. I thrive in fast-paced environments and am always excited to tackle new challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I have worked with various startups and multinational organizations, leading teams and projects, collaborating with stakeholders, and designing innovative solutions that drive growth. My expertise includes **Agile methodology**, **full-stack development**, and **IoT-driven product design**.
+
+- 🌱 Currently learning: **ML and Python**  
+- 👯 I’m looking to collaborate on: **AI / ML and IoT**  
+- 💬 Ask me about: **Product Management, Project Management, Agile, IoT, Web Development, and more!**  
+- 📫 How to reach me: **https://snehase.vercel.app/contact**
+
+---
+
+## Skills
+
+### 💻 Development:
+- **Languages**: TypeScript, JavaScript C#, Java, HTML/CSS
+- **Frameworks**: React, Node.js, Angular, Django
+- **Tools**: Git, TFS, AWS, Figma, Cypress
+
+### 📊 Project Management:
+- **Methodologies**: Agile, Scrum, Kanban
+- **Tools**: Jira, Trello
+- **Other**: Roadmap planning, stakeholder communication, feature prioritization, Backlog management, drafting user-story
+
+### 🌐 IoT & Product Development:
+- **Communication**: MQTT, RESTful APIs
+
+---
+
+## Links
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/snehase25)  
+- 🌐 [Portfolio](https://snehase.vercel.app/)
+
+---
+
+## Projects
+🔗 [Projects] https://snehase.vercel.app/projects
+
+---
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehase25&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+## Contributions
+
+Feel free to contribute to any of my open-source projects! If you're interested in collaborating or have any suggestions, feel free to open an issue or create a pull request.
+
+---
+
+Thank you for visiting my GitHub profile! 😄
